@@ -3,4 +3,6 @@
 *.ipynb_checkpoints/
 
 # ignore ALL files in ANY directory named Lab 1 Data
-Lab Data
+Lab Data/
+*data/
+Slides

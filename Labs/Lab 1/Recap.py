@@ -1,2 +1,0 @@
-a = 'HelloWorld'
-print(a)
