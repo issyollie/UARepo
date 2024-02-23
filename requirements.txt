@@ -35,7 +35,7 @@
   - jupyter-resource-usage
   - jupyterlab-git
   # Scientific Python
-  - numpy
+    numpy
   - scipy
   - sympy  
   # Data tools
