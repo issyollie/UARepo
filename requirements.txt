@@ -1,7 +1,7 @@
-name: ua
-channels:
+#name: ua
+#channels:
   - conda-forge
-dependencies:
+#dependencies:
   - python >=3.10
   - pip
   # Jupyter Lab
