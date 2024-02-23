@@ -1,6 +1,6 @@
 #name: ua
 #channels:
-  conda-forge
+ # conda-forge
 #dependencies:
   python >=3.10
   pip
